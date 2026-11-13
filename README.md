@@ -70,7 +70,7 @@ Algorithm_Battle_Submission/
 ├── student.c
 ├── README.md
 ├── report.docx
-└── Screenshots/
+└── screenshots/
     ├── initial_dataset.png
     ├── bst_successful_search_3265.png
     ├── avl_successful_search_3265.png
