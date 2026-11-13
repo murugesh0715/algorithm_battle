@@ -86,6 +86,6 @@ Algorithm_Battle_Submission/
 ```
 
 ## GitHub reference
-https://github.com/Navin-13/algorithm-Battle
+https://github.com/murugesh0715/algorithm_battle
 
 The GitHub URL is a reference link. The files in this ZIP are a separate locally revised copy.
