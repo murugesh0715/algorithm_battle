@@ -66,7 +66,7 @@ student.exe
 
 ## Repository structure
 ```text
-Algorithm_Battle_Submission/
+algorithm_battle/
 ├── student.c
 ├── README.md
 ├── report.docx
